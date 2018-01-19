@@ -1,0 +1,3 @@
+com\jomighty\testurl\test\pages\HomePage.class
+com\jomighty\testurl\test\features\accesspage\WhenUserAccessPage.class
+com\jomighty\testurl\test\steps\AccessSteps.class

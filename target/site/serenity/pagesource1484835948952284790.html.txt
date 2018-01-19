@@ -1,0 +1,411 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="dj_webkit dj_chrome dj_contentbox"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1" />
+<!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+	 dyn-cs:* URIs are resolved using the WP DynamicContentSpotMappings resource environment provider. These values can
+	 also be set using theme metadata if a theme is specified in the URI (e.g. @tl:oid:theme_unique_name). -->
+<link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!YEe0Jv9Gnlp239EFZZUquQ/sp/mashup:ra:collection?soffset=0&amp;eoffset=6&amp;themeID=ZJ_CGAH47L00OEP00IDBHRNLP0830&amp;locale=en&amp;mime-type=text%2Fcss&amp;entry=wp_one_ui_30__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_30__0.0%3Ahead_css&amp;entry=wp_tagging_rating__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css&amp;entry=wp_content_mapping_picker__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_preview__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;entry=wp_legacy_layouts__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=mm_builder_dialogs__0.0%3Ahead_css&amp;entry=mm_page_sharing_base__0.0%3Ahead_css&amp;entry=wp_project_menu__0.0%3Ahead_css&amp;entry=wp_theme_portal_80__0.0%3Ahead_css&amp;entry=wp_pagebuilder_dnd__0.0%3Ahead_css&amp;entry=mm_move_page__0.0%3Ahead_css&amp;entry=wp_analytics__0.0%3Ahead_css&amp;entry=wp_toolbar__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=mm_builder_wiring__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css" type="text/css" /><link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!YEe0Jv9Gnlp239EFZZUquQ/sp/mashup:ra:collection?soffset=6&amp;eoffset=33&amp;themeID=ZJ_CGAH47L00OEP00IDBHRNLP0830&amp;locale=en&amp;mime-type=text%2Fcss&amp;entry=wp_one_ui_30__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_30__0.0%3Ahead_css&amp;entry=wp_tagging_rating__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css&amp;entry=wp_content_mapping_picker__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_preview__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;entry=wp_legacy_layouts__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=mm_builder_dialogs__0.0%3Ahead_css&amp;entry=mm_page_sharing_base__0.0%3Ahead_css&amp;entry=wp_project_menu__0.0%3Ahead_css&amp;entry=wp_theme_portal_80__0.0%3Ahead_css&amp;entry=wp_pagebuilder_dnd__0.0%3Ahead_css&amp;entry=mm_move_page__0.0%3Ahead_css&amp;entry=wp_analytics__0.0%3Ahead_css&amp;entry=wp_toolbar__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=mm_builder_wiring__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css" type="text/css" /><link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!YEe0Jv9Gnlp239EFZZUquQ/sp/mashup:ra:collection?soffset=33&amp;eoffset=35&amp;themeID=ZJ_CGAH47L00OEP00IDBHRNLP0830&amp;locale=en&amp;mime-type=text%2Fcss&amp;entry=wp_one_ui_30__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_30__0.0%3Ahead_css&amp;entry=wp_tagging_rating__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css&amp;entry=wp_content_mapping_picker__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_preview__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;entry=wp_legacy_layouts__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=mm_builder_dialogs__0.0%3Ahead_css&amp;entry=mm_page_sharing_base__0.0%3Ahead_css&amp;entry=wp_project_menu__0.0%3Ahead_css&amp;entry=wp_theme_portal_80__0.0%3Ahead_css&amp;entry=wp_pagebuilder_dnd__0.0%3Ahead_css&amp;entry=mm_move_page__0.0%3Ahead_css&amp;entry=wp_analytics__0.0%3Ahead_css&amp;entry=wp_toolbar__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=mm_builder_wiring__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css" type="text/css" /><script type="text/javascript">var djConfig={"baseUrl":"/wps/portal_dojo/v1.7/dojo/","locale":"en","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"modulePaths":{"com":"/wps/themeModules/js/com","ibm":"/wps/themeModules/js/ibm"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!eCBYLyHH0ghU-eNOf2lmwA/mashup/ra:collection?themeID=ZJ_CGAH47L00OEP00IDBHRNLP0830&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=dojo_17__0.0%3Ahead_js&amp;entry=dojo_fx_17__0.0%3Ahead_js&amp;entry=dojo_fmt_17__0.0%3Ahead_js&amp;entry=dojo_dom_17__0.0%3Ahead_js&amp;entry=dojo_app_17__0.0%3Ahead_js&amp;entry=dijit_17__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_17__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_17__0.0%3Ahead_js&amp;entry=dijit_layout_basic_17__0.0%3Ahead_js&amp;entry=dijit_menu_17__0.0%3Ahead_js&amp;entry=dojo_data_17__0.0%3Ahead_js&amp;entry=dijit_form_17__0.0%3Ahead_js&amp;entry=dijit_layout_ext_17__0.0%3Ahead_js&amp;entry=dojox_xml_17__0.0%3Ahead_js&amp;entry=dojox_io_17__0.0%3Ahead_js&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;entry=dojox_fx_17__0.0%3Ahead_js&amp;entry=dojox_gfx_17__0.0%3Ahead_js&amp;entry=dojox_charting_17__0.0%3Ahead_js&amp;entry=dojox_layout_basic_17__0.0%3Ahead_js&amp;entry=dojox_collections_17__0.0%3Ahead_js&amp;entry=dojox_uuid_17__0.0%3Ahead_js&amp;entry=dojox_data_basic_17__0.0%3Ahead_js&amp;entry=dojox_aspect_17__0.0%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js&amp;entry=wp_portal_client_utils__0.0%3Ahead_js&amp;entry=dijit_tree_17__0.0%3Ahead_js&amp;entry=wp_theme_portal_80__0.0%3Ahead_js&amp;entry=wp_portlet_client_model__0.0%3Ahead_js&amp;entry=mm_open_ajax_hub__0.0%3Ahead_js"></script><!--[if IE 7]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie lotusui_ie7";</script>
+<![endif]--> 
+<!--[if IE 8]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie8";</script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie9";</script>
+<![endif]-->
+<style id="layout-wstate-styles"></style>
+
+<link rel="schema.PORTAL_CP" href="http://www.ibm.com/xmlns/prod/websphere/portal/v7.0/portal-contextual-portal" />
+
+
+<title>Welcome</title>
+
+<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dJQSEvUUt3QS80SmlFL1o2X0NHQUg0N0wwMDhEREMwSURCOTZONjUwMEUw/" />
+
+<link rel="bookmark" title="Welcome" href="/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dJQSEvUUt3QS80SmlFL1o2X0NHQUg0N0wwMDhEREMwSURCOTZONjUwMEUw/" hreflang="en" />
+
+<link href="/wps/contenthandler/!ut/p/digest!eCBYLyHH0ghU-eNOf2lmwA/dav/fs-type1/themes/Portal8.0/images/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+<!-- rendering is delegated to the specified href for each locale -->
+<link rel="stylesheet" href="/wps/semanticTag/ui/styles.css" type="text/css" /></head>
+<body class="lotusui30dojo tundra locale_en">	
+	
+	<div class="wpthemeFrame">
+		
+		<header role="banner">
+
+			<div class="wpthemeHeader">
+				<!-- inserts the managed pages preview mode contributions -->
+				<div class="wpthemeInner">
+					<div class="wpthemeLogo wpthemeLeft">
+						<span class="wpthemeAltText">IBM WebSphere Portal</span>
+					</div>
+					
+					<!-- renders the top navigation -->
+					
+			<div class="wpthemeNavContainer1">
+				<nav class="wpthemeHeaderNav">
+					<ul class="wpthemeNavList">
+			
+					<li class="wpthemeNavListItem wpthemeLeft wpthemeSelected">
+						<a href="?uri=nm:oid:Z6_CGAH47L0004820IDBHD79M00I6" class="wpthemeLeft wpthemeFirst"><span lang="en" dir="ltr">Home</span></a>
+						
+					</li>
+				
+					</ul>	
+				</nav>
+				<div class="wpthemeClear"></div>
+			</div>
+		<!-- displays the state of the current page -->
+					<div class="wpthemeRight">
+						</div>
+				</div>
+			</div><!-- end header -->
+
+			<!-- inserts the universal toolbar -->
+			<div class="wpthemeBanner">
+				<div class="wpthemeBannerInner">
+					<div class="wpthemeInner">
+						
+<ul class="wpthemeCommonActions wpthemeLeft">
+	
+	<li>
+		<span class="wpthemeBranding">
+		    
+		    <a class="wpthemeBrandingLink" href="?uri=nm:oid:Z6_CGAH47L0004820IDBHD79M00I6" alt="Home">
+			<img src="/wps/themeModules/themes/html/dynamicSpots/icons/blank.gif" alt="IBM Logo" />
+			</a>
+			<span class="wpthemeAltText">IBM Logo</span>
+		</span>
+	</li>
+</ul>
+<ul class="wpthemeCommonActions wpthemeRight">
+	
+	<li class="wpthemeFirst" id="wpthemeSignUp">
+		
+	</li>
+	
+	<li class="wpthemeLast" id="wpthemeLogin">
+		
+			<a href="/wps/myportal/!ut/p/a0/04_Sj9CPykssy0xPLMnMz0vMAfGjzOINcABHA_2CbEdFAJhiXVo!/">Log In</a>
+		
+	</li>
+	
+</ul>
+<div class="wpthemeClear"></div>
+					</div>
+				</div>
+			</div><!--end main banner-->
+			
+			<div class="wpthemeBanner wpthemeBannerPrimaryNavigation">
+				<div class="wpthemeBannerInner">
+					<div class="wpthemeInner">
+						
+			<div class="wpthemeNavContainer1">
+				<nav class="wpthemePrimaryNav wpthemeLeft">
+					<ul class="wpthemeNavList">
+			
+					<li class="wpthemeNavListItem wpthemeLeft wpthemeSelected">
+						<a href="?uri=nm:oid:Z6_CGAH47L008DDC0IDB96N6500E0" class="wpthemeLeft wpthemeFirst"><span lang="en" dir="ltr">Welcome<span class="wpthemeAccess"> currently selected</span></span></a>
+						
+					</li>
+				
+					</ul>	
+				</nav>
+				<div class="wpthemeClear"></div>
+			</div>
+		<div class="wpthemeClear"></div>
+					</div>
+				</div>
+			</div><!--end primary nav banner-->
+			
+			<div class="wpthemeSecondaryBanner">
+				<div class="wpthemeClear"></div>
+			</div><!--end secondary banner-->
+		</header>
+
+		<div class="wpthemeMainContent" role="main">
+			<div class="wpthemeInner">	
+				<!-- asa markup contributions for pages -->	
+				
+
+<div class="asa.page" id="asa.page" style="display:none;">
+	<span class="asa.page.id">Z6_CGAH47L008DDC0IDB96N6500E0</span>
+
+	
+
+</div>
+
+<div class="wpthemeClear"></div>
+				
+<div class="wpthemeInner">
+	<div id="wpthemeStatusBarContainer" class="lotusui30">
+		
+		<noscript>
+			&lt;div class="lotusMessage2" role="alert" wairole="alert"&gt;
+				&lt;img class="lotusIcon lotusIconMsgError" src="icons/blank.gif" alt="Error" /&gt;
+				&lt;span class="lotusAltText"&gt;Error:&lt;/span&gt;
+				&lt;div class="lotusMessageBody"&gt;Javascript is disabled in this browser. This page requires Javascript. Modify your browser's settings to allow Javascript to execute. See your browser's documentation for specific instructions.&lt;/div&gt;
+			&lt;/div&gt;
+		</noscript>
+	</div>
+</div></div>		
+
+			<!-- required - do not remove -->
+			<div style="display:none" id="portletState">{}</div><div id="layoutContainers" class="wpthemeLayoutContainers wpthemeLayoutContainersHidden">	
+				<div class="wpthemeInner">					
+					<div class="hiddenWidgetsDiv">
+	<div class="component-container ibmDndRow hiddenWidgetsContainer id-Z7_CGAH47L00GC270A0KHJFG010E1" name="ibmHiddenWidgets"></div><div style="clear:both"></div>
+</div>
+<div class="component-container ibm1Col ibmDndColumn id-Z7_CGAH47L00GC270A0KHJFG010E5" name="ibmMainContainer"><div class="component-control id-Z7_CGAH47L00GC270A0KHJFG010E3"><span id="Z7_CGAH47L00GC270A0KHJFG010E3"></span><section class="ibmPortalControl wpthemeControl wpthemeHidden a11yRegionTarget" role="region" aria-labelledby="wpRegionIdZ7_CGAH47L00GC270A0KHJFG010E3">
+
+	
+	
+
+	<div class="asa.portlet" id="asa.portlet.Z7_CGAH47L00GC270A0KHJFG010E3" style="display:none;">
+		<span class="asa.portlet.id">Z7_CGAH47L00GC270A0KHJFG010E3</span>
+
+		
+
+	</div>
+	
+<!-- start header markup -->
+	<header class="wpthemeControlHeader dojoDndHandle">
+		<div class="wpthemeInner">
+			<h2>
+				<!-- lm-dynamic-title node marks location for dynamic title support -->
+ 				<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel" id="wpRegionIdZ7_CGAH47L00GC270A0KHJFG010E3"><span lang="en" dir="ltr">Information Portlet</span></span>            
+			</h2>
+			<a aria-haspopup="true" aria-label="Display menu" href="javascript:;" class="wpthemeIcon wpthemeMenuFocus" tabindex="0" onclick="wptheme.contextMenu.init(this, 'skinAction', {'navID':ibmCfg.portalConfig.currentPageOID,'windowID':wptheme.getWindowIDFromSkin(this)});">
+				<span title="Display menu"><img aria-label="Display menu" alt="" src="/wps/themeModules/themes/html/dynamicSpots/icons/blank.gif" /></span>
+				<span class="wpthemeAltText">Actions</span>
+				<span class="wpthemeMenuRight">
+					<div class="wpthemeMenuBorder">
+						<div class="wpthemeMenuNotchBorder"></div>
+						<!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+						<ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+							<li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+						</ul>
+					</div>
+					<!-- Template for loading -->
+					<div class="wpthemeMenuLoading wpthemeTemplateLoading">Loading...</div>
+					<!-- Template for submenu -->
+					<div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+						<div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+							<ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu"><li role="menuitem" tabindex="-1"></li></ul>
+						</div>
+					</div>
+				</span>
+			</a>
+		</div>
+	</header>
+	
+	<div class="wpthemeControlBody wpthemeOverflowAuto wpthemeClear"> <!-- lm:control dynamic spot injects markup of layout control -->
+	<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+		<div style="position:relative; z-index: 1;">
+			<div class="analytics.overlay"></div>
+		</div>
+		<!-- file portaluserinterface.jsp in blurb -->
+ 
+ 
+ 
+ 
+
+
+ 
+ 
+ 
+ 
+<link rel="stylesheet" href="/wps/PA_Blurb_1/jsp/oob/css/v8001/welcomePage_mobile.css" type="text/css" /> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<div class="oobsamplemwbanner"><div class="oobsamplemwbanner-image oobsampleLeft"><img class="oobsamplemw-img" src="/wps/PA_Blurb_1/images/oob/WebSphereLogoNew.png" alt="" /></div><h1 class="oobsamplemwwelcome-text">Welcome to Your</h1><h1 class="oobsamplemwproduct-name">Web Experience</h1><div class="oobsampleClear"></div></div><script type="text/javascript">var imageData={details:[
+{image:"/wps/PA_Blurb_1/images/oob/c_intelligent.png",title:"Managed Pages",detail:"Managed pages provide a simplified way to create and manage portal pages and web content using a new integrated site toolbar. New page draft and approval process lets you preview and approve changes to pages before publishing them. "},
+{image:"/wps/PA_Blurb_1/images/oob/c_mobile.png",title:"Mobile Theme",detail:"The new mobile theme shows how to control the look and feel, page navigation, and content navigation on a smartphone. Rich mobile web interaction patterns such as swipe, carousel, accordion, and swap using CSS3 and HTML5 provide a complete web experience."},
+{image:"/wps/PA_Blurb_1/images/oob/c_analytics.png",title:"Web Analytics",detail:"Overlay reports illustrate your site effectiveness in the context of your pages, portlets, or web content. Analytics instrumentation includes a selection of tags that are ready for immediate use. You can also gain more insight about targeted content using site promotions and custom analytic tags."}
+]};
+</script><div id="carousel_1" class="carouselholder"><div id="carouselWrap" class="carouselpage_1"><!-- First Page -->
+<div class="carouselpage oobsampleLeft" id="carouselpage_1"><div class="oobsampleLeftContainer"><img class="carouselImage oobsampleRight" title="Managed Pages" alt="Managed Pages" src="/wps/PA_Blurb_1/images/oob/c_intelligent.png" /></div><div class="oobsampleRightContainer"><h1>Managed Pages</h1><p>Managed pages provide a simplified way to create and manage portal pages and web content using a new integrated site toolbar. New page draft and approval process lets you preview and approve changes to pages before publishing them. </p><button role="link" class="oobsamplemwtier1-button" onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.ip/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about managed pages</span></button></div><div class="oobsampleClear"></div></div><div class="carouselpage oobsampleLeft carouselhidden" id="carouselpage_2"><div class="oobsampleLeftContainer"><img class="carouselImage oobsampleRight" title="Mobile Theme" alt="Mobile Theme" src="/wps/PA_Blurb_1/images/oob/c_mobile.png" /></div><div class="oobsampleRightContainer"><h1>Mobile Theme</h1><p>The new mobile theme shows how to control the look and feel, page navigation, and content navigation on a smartphone. Rich mobile web interaction patterns such as swipe, carousel, accordion, and swap using CSS3 and HTML5 provide a complete web experience.</p><button role="link" class="oobsamplemwtier1-button" onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.mobile/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about the mobile theme</span></button></div><div class="oobsampleClear"></div></div><div class="carouselpage oobsampleLeft carouselhidden" id="carouselpage_3"><div class="oobsampleLeftContainer"><img class="carouselImage oobsampleRight" title="Web Analytics" alt="Web Analytics" src="/wps/PA_Blurb_1/images/oob/c_analytics.png" /></div><div class="oobsampleRightContainer"><h1>Web Analytics</h1><p>Overlay reports illustrate your site effectiveness in the context of your pages, portlets, or web content. Analytics instrumentation includes a selection of tags that are ready for immediate use. You can also gain more insight about targeted content using site promotions and custom analytic tags.</p><button role="link" class="oobsamplemwtier1-button" onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.analytics/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about web analytics</span></button></div><div class="oobsampleClear"></div></div><div class="oobsampleClear"></div></div> <!-- end tier1 container -->
+<img class="carouselRibbon" alt="" src="/wps/PA_Blurb_1/images/oob/newRibbon.png" /> <!-- As image is decorative no alt required-->
+<img id="carouselSharkFin" alt="" class="carouselpage_1" src="/wps/PA_Blurb_1/images/oob/carouselSharkFin.png" /><!-- As image is decorative no alt required-->
+<div class="carousel"><img title="Managed Pages" alt="Managed Pages" class="carouseliconDark" id="carouselicon_1" src="/wps/PA_Blurb_1/images/oob/thumb_intelligent.png" /><img title="Mobile Theme" alt="Mobile Theme" class="carouselicon" id="carouselicon_2" src="/wps/PA_Blurb_1/images/oob/thumb_mobile.png" /><img title="Web Analytics" alt="Web Analytics" class="carouselicon" id="carouselicon_3" src="/wps/PA_Blurb_1/images/oob/thumb_analytics.png" /></div><div class="oobsampleClear"></div></div><!-- end carousel_1 -->
+<div class="oobsamplemwtier2"><div class="oobsamplemwtier2-container"><div class="oobsamplemwtier2-image oobsampleLeft"><img src="/wps/PA_Blurb_1/images/oob/screen_iim.png" alt="" /></div><div class="oobsamplemwtier2-content oobsampleLeft"><h2>IBM Installation Manager </h2><p class="oobsamplemwtier2-text">IBM Installation Manager provides faster installation performance and better integration with other IBM products. Manage the software life cycle with a single tool. You can install, update, rollback, modify, and uninstall from one user interface. </p><button role="link" class="oobsamplemwtier2-button" onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.iim/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about IBM installation manager</span></button></div><!--end content -->
+<div class="oobsampleClear"></div></div><div class="oobsamplemwtier2-container"><div class="oobsamplemwtier2-image oobsampleLeft"><img src="/wps/PA_Blurb_1/images/oob/screen_bp.png" alt="" /></div><div class="oobsamplemwtier2-content oobsampleLeft"><h2>Simplified Business Process Integration </h2><p class="oobsamplemwtier2-text"> Site users can access relevant tasks and activities for business process management solutions from a single user interface, the Unified Task List portlet. Integrate your site with several process management solutions, such as IBM Forms Experience Builder and IBM Business Process Manager.</p><button role="link" class="oobsamplemwtier2-button" onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.bp/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about simplified business process integration</span></button></div><!--end content -->
+<div class="oobsampleClear"></div></div><div class="oobsamplemwtier2-container"><div class="oobsamplemwtier2-image oobsampleLeft"><img src="/wps/PA_Blurb_1/images/oob/screen_search.png" alt="" /></div><div class="oobsamplemwtier2-content oobsampleLeft"><h2>Search Optimization</h2><p class="oobsamplemwtier2-text">Optimize external search for web content rendered through WebSphere Portal. </p><button role="link" class="oobsamplemwtier2-button" onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.search/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about search optimization</span></button></div><!--end content -->
+<div class="oobsampleClear"></div></div></div><!--end tier2 -->
+<div class="oobsamplemwtier3"><div class="oobsamplemwtier3-container oobsample2colFirst oobsample3colFirst oobsampleLeft"><div class="oobsamplemwtier3-content oobsampleFirst"><h3>Social Business in Context</h3><p class="oobsamplemwtier3-pa">New community page support lets you place IBM Connections portlets in the right context for your portal site. </p><p class="oobsamplemwtier3-linktext"><a onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.social/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about social business in context</span></a></p></div> <!--end content -->
+<div class="oobsampleClear"></div></div> <!-- end tier3 container -->
+<div class="oobsamplemwtier3-container oobsample2colLast oobsampleLeft"><div class="oobsamplemwtier3-content"><h3>Rich Web Content Management</h3><p class="oobsamplemwtier3-pa">Create web content pages and content with point-and-click simplicity with the new <em>content templating</em> user interface.Integrate with ECM using IBM Web Content Manager support for the CMIS standard. </p><p class="oobsamplemwtier3-linktext"><a onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.rich.web/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about rich web content management</span></a></p></div> <!--end content -->
+<div class="oobsampleClear"></div></div> <!-- end tier3 container -->
+<div class="oobsamplemwtier3-container oobsample2colFirst oobsample3colLast oobsampleLeft"><div class="oobsamplemwtier3-content oobsampleFirst"><h3>Enhanced Projects</h3><p class="oobsamplemwtier3-pa">Add users as approvers for a project and send a project through a review state before publishing.</p><p class="oobsamplemwtier3-linktext"><a onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.projects/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about enhanced projects</span></a></p></div> <!--end content -->
+<div class="oobsampleClear"></div></div> <!-- end tier3 container -->
+<div class="oobsamplemwtier3-container oobsample2colLast oobsample3colFirst oobsampleClearLeft oobsampleLeft"><div class="oobsamplemwtier3-content"><h3>Site Area Templates</h3><p class="oobsamplemwtier3-pa">Create site area templates that define the authoring settings, such as the design of the form, elements and fields on a form, and default values.</p><p class="oobsamplemwtier3-linktext"><a onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.site.temp/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about site area templates</span></a></p></div> <!--end content -->
+<div class="oobsampleClear"></div></div> <!-- end tier3 container -->
+<div class="oobsamplemwtier3-container oobsample2colFirst oobsampleLeft oobsampleLast"><div class="oobsamplemwtier3-content oobsampleFirst"><h3>Content Template Catalog</h3><p class="oobsamplemwtier3-pa">The catalog provides a suite of fully functional templates and assets that enables business users to rapidly build new sites and enhance existing sites. Users can easily customize the content, page templates, and design elements too.</p><p class="oobsamplemwtier3-linktext"><a onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.ctc/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Learn More<span class="wpthemeAccess"> about content template catalog</span></a></p></div> <!--end content -->
+<div class="oobsampleClear"></div></div> <!-- end tier3 container -->
+<div class="oobsamplemwtier3-container oobsample2colLast oobsample3colLast oobsampleLeft oobsampleLast"><div class="oobsamplemwtier3-content"><h3>More New Features </h3><p class="oobsamplemwtier3-linktext"><a onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.cfg.wiz/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">New Configuration Wizard</a></p><p class="oobsamplemwtier3-linktext"><a onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.sap/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">WebSphere Portal Integrator for SAP</a></p><p class="oobsamplemwtier3-linktext"><a onclick="window.open('/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/pw/Z7_CGAH47L00GC270A0KHJFG010E3/ren/p=action=wps.portlets.link/p=linkappid=com.ibm.wp.admin.help.app.welcome.wab/=/#Z7_CGAH47L00GC270A0KHJFG010E3','PortalHelpWindow','resizable=yes,scrollbars=yes,menubar=no,toolbar=yes,status=no,width=800px,height=600px,screenX=10px,screenY=10px,top=10px,left=10px')" href="javascript:void(0);">Web Application Bridge</a></p></div> <!--end content -->
+<div class="oobsampleClear"></div></div> <!-- end tier3 container -->
+</div> <!-- end tier3 -->
+<script type="text/javascript" src="/wps/PA_Blurb_1/jsp/oob/carousel.js"></script><div class="wpthemeClear"></div>
+	</div>
+</section>
+</div></div>
+<div class="wpthemeClear"></div>
+				</div>
+			</div>
+		</div><!--end main content-->
+		
+		<footer class="wpthemeFooter" role="contentinfo">
+			<div class="wpthemeInner">	
+				
+<div class="wpthemeFooterCol wpthemeLeft">
+	<h3>Help</h3>
+	<ul>
+		<li><a href="http://www.ibm.com/websphere/portal/library">Product documentation</a></li>
+		<li><a href="http://www.lotus.com/ldd/portalwiki.nsf/">Product wiki</a></li>
+		<li><a href="http://www.lotus.com/ldd/portalwiki.nsf/xpViewCategories.xsp?lookupName=Video%20Gallery">Media gallery</a></li>
+		<li><a href="http://www.ibm.com/websphere/developer/zones/portal/">WebSphere Portal Zone</a></li>
+	</ul>
+</div>
+<div class="wpthemeFooterCol wpthemeLeft">
+	<h3>Support</h3>
+	<ul>
+		<li><a href="http://www.ibm.com/software/genservers/portal/support/">Support page</a></li>
+		<li><a href="http://www-01.ibm.com/support/docview.wss?rs=1070&amp;uid=swg27007791">Supported hardware and software</a></li>
+		<li><a href="http://www14.software.ibm.com/webapp/set2/sas/f/handbook/home.html">IBM Software Support Guide</a></li>
+	</ul>
+</div>
+<div class="wpthemeClear"></div>
+			</div>
+		</footer><!-- page footer -->
+		
+	</div><!-- end frame -->
+		
+    <!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+        This is located here instead of the head section to improve client performance. -->
+	<div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" aria-labelledby="wpthemeComplementaryContentText">
+		<span class="wpthemeAltText" id="wpthemeComplementaryContentText">Complementary Content</span>
+		<script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!KzL-wCRXz8c42bq9WTgaxg/mashup/ra:collection?themeID=ZJ_CGAH47L00OEP00IDBHRNLP0830&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=mm_enabler__0.0%3Aconfig_config_static&amp;entry=wcm_config__0.0%3Aconfig_config_static&amp;entry=wcm_inplaceEdit__0.0%3Aconfig_config_static&amp;entry=wp_portal__0.0%3Aconfig_config_static"></script><script type="text/javascript">i$.merge({"ibmCfg":{"enablerConfig":{"com.ibm.mashups.proxy.url":"/wps/proxy","com.ibm.mashups.productname":"IBM WebSphere Portal","com.ibm.mashups.anonymous.mode":"true","serviceDocumentUrl":"/wps/contenthandler/!ut/p/digest!UIy9uRvgnUgdXBolG-juCg/model/service-document/?locale=en","anonymousUser":true,"user":null,"fontSizeEnlarged":false,"isBidi":false,"locale":"en","displayLocale":"en","com.ibm.mashups.contextroot":"/wps","defaultLayoutTemplateURI":"dav:fs-type1/themes/Portal8.0/layout-templates/2ColumnEqual/","com.ibm.mashups.contenthandler.private":"/wps/mycontenthandler/!ut/p/digest!UIy9uRvgnUgdXBolG-juCg/","com.ibm.mashups.contenthandler.public":"/wps/contenthandler/!ut/p/digest!UIy9uRvgnUgdXBolG-juCg/"}},"portalMashupsConfig":{"serviceDocURL":"/wps/contenthandler/!ut/p/digest!UIy9uRvgnUgdXBolG-juCg/model/service-document/?locale=en","contentHandlerContextPath":"/wps/contenthandler/!ut/p/digest!UIy9uRvgnUgdXBolG-juCg/"}});
+	var ibmPortalCPConfig={"portletContextMenu":{"isTaggingEnabled":true,"isRatingEnabled":true},"isTagCenterAvailable":false,"tagging":{"dialog":{"displayTabs":false,"typeaheadSearchPattern":null,"defaultView":"PUBLIC","order":"DESC","privateTaggingEnabled":false,"localePickerEnabled":true,"deletingEnabled":true,"maxPersonalTags":50,"countsEnabled":false,"orderMetric":"TAG_SPACE_COUNT_REVERSE_NAME","maxCommunityTags":50,"messageFadeOutDuration":1000},"inline":{"maxResults":5,"displayTwisty":"COLLAPSED","showDialogLauncher":true,"tagClickActionMode":"TAG_CENTER","tagsClickable":true,"tagScope":"COMMUNITY_PERSONAL_PUBLIC","countsEnabled":false,"tagClickTransmitScopes":false,"order":"DESC","orderMetric":"TAG_SPACE_COUNT_REVERSE_NAME","tagsChangedEvent":"tagsChanged"},"validation":{"validationRegex":"[^\\&lt;\\\\&gt;\\(\\)\\[\\]:]{1,255}"}},"isTaggingEnabled":true,"isRatingEnabled":true,"operations":{"canCreatePrivateTags":false,"canCreatePublicRatings":false,"canViewRatings":false,"canBrowseTags":false,"canDeleteOtherUsersTags":false,"canCreatePublicTags":false,"canViewTags":false,"canResetRatingPerResource":false,"canCreatePrivateRatings":false},"rating":{"maxRatingValue":5,"dialog":{"displayTabs":false,"privateRatingEnabled":false,"defaultView":"PUBLIC","deletingEnabled":true,"numStars":5,"messageFadeOutDuration":1000},"inline":{"displayTwisty":"COLLAPSED","showDialogLauncher":"COLLAPSED","ratingScope":"COMMUNITY_PERSONAL_PUBLIC","onStarHoverShowRatingDistribution":true,"onStarClickOpenDialog":true,"ratingDistributionPosition":"30,30","numStars":5,"ratingsChangedEvent":"ratingsChanged"}},"contextMenu":{"isTaggingEnabled":true,"isRatingEnabled":true}};
+ 
+ 
+ 
+var SemTagSvcPortalGlobalDynamic={
+basePumaResolvedUrl: ''+
+''+
+'/wps/contenthandler/!ut/p/digest!UIy9uRvgnUgdXBolG-juCg/um/secure/users/profiles?locale=en_US',
+availAttribUrl: ''+
+''+
+'/wps/contenthandler/!ut/p/digest!UIy9uRvgnUgdXBolG-juCg/um/secure/attributes/users?locale=en_US'
+};
+i$.merge({"ibmCfg":{"themeConfig":{"themeUniqueName":"ibm.portal.80Theme","themeRootURI":"/wps/contenthandler/!ut/p/digest!eCBYLyHH0ghU-eNOf2lmwA/dav/fs-type1/themes/Portal8.0","themeWebAppBaseURI":"/wps/defaultTheme80/themes/html/dynamicSpots","themeWebDAVBaseURI":"dav:fs-type1/themes/Portal8.0/","modulesWebAppBaseURI":"/wps/themeModules","commonResourcesRootURI":"/wps/contenthandler/!ut/p/digest!eCBYLyHH0ghU-eNOf2lmwA/dav/fs-type1/common-resources","isRTL":false,"isPageRenderModeCSA":false,"portletOverridePageTitle":"Welcome","currentContentNodeOID":"Z6_CGAH47L008DDC0IDB96N6500E0","loadingImage":"css/images/loading.gif","dndSourceDefinitions":[{"id":"ibmDndColumn","object":"com.ibm.pb.dnd.layout.LayoutColumnSource","orientation":"vertical"},{"id":"ibmDndRow","object":"com.ibm.pb.dnd.layout.LayoutRowSource","orientation":"horizontal"}],"categorySources":[],"styleSources":[],"layoutSources":[]},"portalConfig":{"locale":"en","portalURI":"/wps/portal","contentHandlerURI":"/wps/contenthandler/!ut/p/digest!UIy9uRvgnUgdXBolG-juCg/","isVirtualPortal":false,"canImpersonate":false,"themeRootURI":"/wps/defaultTheme80/themes/html/dynamicSpots","parentPageID":"Z6_CGAH47L0004820IDBHD79M00I6","currentPageOID":"Z6_CGAH47L008DDC0IDB96N6500E0","bootstrapState":"&amp;lt;?xml version=&amp;#034;1.0&amp;#034; encoding=&amp;#034;UTF-8&amp;#034;?&amp;gt;&amp;lt;root xmlns=&amp;#034;http://www.ibm.com/xmlns/prod/websphere/portal/v6.1/portal-state&amp;#034;&amp;gt;&amp;lt;state type=&amp;#034;navigational&amp;#034;&amp;gt;&amp;lt;selection selection-node=&amp;#034;Z6_CGAH47L008DDC0IDB96N6500E0&amp;#034;&amp;gt;&amp;lt;mapping src=&amp;#034;Z6_000000000000000000000000A0&amp;#034; dst=&amp;#034;Z6_CGAH47L008DDC0IDB96N6500E0&amp;#034;/&amp;gt;&amp;lt;/selection&amp;gt;&amp;lt;expansions&amp;gt;&amp;lt;node id=&amp;#034;Z6_CGAH47L0004820IDBHD79M00I6&amp;#034;/&amp;gt;&amp;lt;node id=&amp;#034;Z6_000000000000000000000000A0&amp;#034;/&amp;gt;&amp;lt;/expansions&amp;gt;&amp;lt;/state&amp;gt;&amp;lt;/root&amp;gt;","isUserLoggedIn":false,"currentUser":"anonymous portal user","currentUserOID":"","aggregatedStyle":null,"wcmPageMetadata":{"contentRoot":null,"sharingScope":null}},"userName":"anonymous portal user"},"com_ibm_theme_capabilities":{"contextmenu_live_object":"1.0","widget_container":"2.1","wcm_inplaceEdit":"1.0","contextmenu":"1.0","mashups.enabler":"3.0.0.1","dojo":"1.7","portal.livetext.adr":"8.0","mashups.builder":"3.0.0.1","federated_documents.picker":"8.0","analytics_aggregator":"8.0","portal.livetext.hcard":"8.0","active_site_analytics":"8.0","portal.livetext.action":"8.0","open_ajax_hub":"2.0","content_mapping.picker":"8.0","cp_tagging_rating":"8.0","oneUI":"3.0.1","portal.livetext.c2a":"8.0"}});ibmCfg.portalConfig.bootstrapState=(ibmCfg.portalConfig.bootstrapState||"").replace(/&amp;lt;/gm, '&lt;').replace(/&amp;gt;/gm, '&gt;').replace(/&amp;amp;/gm, '&amp;').replace(/&amp;#039;/gm, "'").replace(/&amp;#034;/gm, '"');
+(function(){ibmToolbarConfig = {projectUUID: "",toolbarMode: "closed",inManagedPages: "false"==="true",isPrivilegedUser: "false"==="true",hasEditSharedPermission: "false"==="true",dialogJavascriptURL: "/wps/contenthandler/!ut/p/digest!p1408UTngn1QdXlUfq-tvg/dialog/dialogModal.js",dialogUtilsJavascriptURL: "/wps/contenthandler/!ut/p/digest!p1408UTngn1QdXlUfq-tvg/dialog/dialogModalUtils.js",draftPageUUID: ""
+	}})();
+
+ibmCfg.portalConfig.asaConfig = {canViewAsaReports: "false",canViewAsaSitePromotions: "false",canCreateAsaSitePromotions: "false",canDeleteAsaSitePromotions: "false",reportConfig: {"scopes":[]}
+};</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!eCBYLyHH0ghU-eNOf2lmwA/mashup/ra:collection?themeID=ZJ_CGAH47L00OEP00IDBHRNLP0830&amp;locale=en&amp;mime-type=text%2Fplain&amp;entry=mm_enabler__0.0%3Aconfig_js&amp;entry=mm_builder__0.0%3Aconfig_js&amp;entry=wp_pagebuilder_base__0.0%3Aconfig_js&amp;entry=wp_pagebuilder_ui__0.0%3Aconfig_js&amp;entry=mm_new_page_dialog__0.0%3Aconfig_js&amp;entry=wp_portal_client_rest_utils__0.0%3Aconfig_js&amp;entry=wp_tagging_rating__0.0%3Aconfig_js&amp;entry=wp_one_ui_30__0.0%3Aconfig_js&amp;entry=mm_builder_dialogs__0.0%3Aconfig_js&amp;entry=mm_page_sharing_base__0.0%3Aconfig_js&amp;entry=mm_page_sharing_permission__0.0%3Aconfig_js&amp;entry=wp_wcm_modal_dialog__0.0%3Aconfig_js&amp;entry=wp_portal_ui_utils__0.0%3Aconfig_js&amp;entry=wp_content_mapping_picker__0.0%3Aconfig_js&amp;entry=wp_dialog_main__0.0%3Aconfig_js&amp;entry=wp_contextmenu_js__0.0%3Aconfig_js&amp;entry=wp_liveobject_framework__0.0%3Aconfig_js&amp;entry=wp_contextmenu_live_object__0.0%3Aconfig_js&amp;entry=wp_content_targeting_cam__0.0%3Aconfig_js&amp;entry=mm_delete_control__0.0%3Aconfig_js&amp;entry=mm_delete_page__0.0%3Aconfig_js&amp;entry=wp_theme_menus__0.0%3Aconfig_js&amp;entry=wp_theme_skin_region__0.0%3Aconfig_js&amp;entry=wp_managed_pages_support_edit__0.0%3Aconfig_js&amp;entry=wp_project_menu_edit__0.0%3Aconfig_js&amp;entry=wp_federated_documents_picker__0.0%3Aconfig_js&amp;entry=wp_template_select_dialog__0.0%3Aconfig_js&amp;entry=wp_project_menu__0.0%3Aconfig_js&amp;entry=wp_pagebuilder_data__0.0%3Aconfig_js&amp;entry=wp_pagebuilder_dnd__0.0%3Aconfig_js&amp;entry=mm_move_page__0.0%3Aconfig_js&amp;entry=wp_pagebuilder_controls__0.0%3Aconfig_js&amp;entry=wp_theme_high_contrast__0.0%3Aconfig_js&amp;entry=wp_pagebuilder_shelf_base__0.0%3Aconfig_js&amp;entry=wp_analytics__0.0%3Aconfig_js&amp;entry=wp_theme_edit__0.0%3Aconfig_js&amp;entry=wp_theme_widget__0.0%3Aconfig_js&amp;entry=wp_toolbar__0.0%3Aconfig_js&amp;entry=wp_status_bar__0.0%3Aconfig_js&amp;entry=mm_builder_wiring__0.0%3Aconfig_js"></script><iframe style="border:0;width:1px;height:1px;position:absolute;visibility:hidden;bottom:0;right:0;" name="dj_history" id="dj_history" src="/wps/portal_dojo/v1.7/dojo/resources/iframe_history.html"></iframe><span id="componentActionMenuTemplate" class="wpthemeMenu" data-positioning-handler="verticallyCenteredRightHand">
+    <div class="wpthemeMenuBorder">
+        <!-- define the menu item template inside the "ul" element.  only "css-class", "description", and "title" are handled by the theme's sample javascript. -->
+        <ul class="wpthemeMenuDropDown wpthemeTemplateMenu" role="menu">
+            <li class="${css-class}" role="menuitem" tabindex="-1"><span class="wpthemeMenuText">${title}</span></li>
+        </ul>
+        <div class="verticalMenuPointer pointer"></div>
+    </div> <!-- Template for loading -->
+    <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+    <!-- Template for submenu -->
+    <div class="wpthemeAnchorSubmenu wpthemeTemplateSubmenu">
+        <div class="wpthemeMenuBorder wpthemeMenuSubmenu">
+            <ul id="${submenu-id}" class="wpthemeMenuDropDown" role="menu">
+                <li role="menuitem" tabindex="-1"></li>
+            </ul>
+        </div>
+    </div>
+</span><span id="inlineEditMenuTemplate" class="wpthemeMenu lotusui30" data-positioning-handler="horizontallyCenteredBelow">
+    <div>
+        <ul role="menu" class="wpthemeMenuInlineList wpthemeTemplateMenu">
+            <li tabindex="-1" role="menuitem" class="${css-class}"><span class="wpthemeMenuText">${title}</span></li>
+        </ul>
+        <div class="horizontalMenuPointer pointer"></div>
+    </div>
+    <div class="wpthemeMenuLoading wpthemeTemplateLoading">${loading}</div>
+</span>
+<div class="iw-iWidget mumHiddenWidget iw-Standalone" id="newPage">
+	<a class="iw-Definition" href="/wps/mccbuilder.v3001/widget-catalog/NewPageDialog.xml?pragma=cache&amp;max-age=1209600&amp;cache-scope=public&amp;vary=none&amp;user-context=false"></a>
+	<span class="iw-ItemSet" title="attributes">
+		<a class="iw-Item" href="#controller">ibmCfg.controllers.navigation</a>
+		<a class="iw-Item" href="#showFriendlyURL">true</a>
+		<a class="iw-Item" href="#showMakePrivate">true</a>
+		<a class="iw-Item" href="#showPageTemplate">true</a>
+	</span>
+<div class="iw-Content view" style=""><div id="_newPage_contents"></div></div></div>
+
+<div class="iw-iWidget mumHiddenWidget iw-Standalone" lazyload="true" id="sharePage">
+	<a class="iw-Definition" href="/wps/mccbuilder.v3001/widget-catalog/accessControl.xml?pragma=cache&amp;max-age=1209600&amp;cache-scope=public&amp;vary=none&amp;user-context=false"></a>
+</div>   
+<div class="iw-iWidget mumHiddenWidget iw-Standalone" lazyload="true" id="viewMorePage">
+	<a class="iw-Definition" href="/wps/mccbuilder.v3001/widget-catalog/viewMorePage.xml?pragma=cache&amp;max-age=1209600&amp;cache-scope=public&amp;vary=none&amp;user-context=false"></a>							
+</div>         
+<div class="iw-iWidget iw-Standalone" id="sharedPagesDialogDisplayer">
+	<a class="iw-Definition" href="/wps/mccbuilder.v3001/widget-catalog/displayHelper.xml?pragma=cache&amp;max-age=1209600&amp;cache-scope=public&amp;vary=none&amp;user-context=false"> </a>
+	<span class="iw-ItemSet" title="attributes">
+		<a class="iw-Item" href="#sharePage">sharePage</a>
+		<a class="iw-Item" href="#viewMorePage">viewMorePage</a>
+	</span>
+<div class="iw-Content view" style=""></div></div>
+<div class="iw-iWidget mumHiddenWidget iw-Standalone" id="templateSelect">
+	<a class="iw-Definition" href="/wps/themeModules/modules/pagebuilder/xml/TemplateSelectDialog.xml?pragma=cache&amp;max-age=1209600&amp;cache-scope=public&amp;vary=none&amp;user-context=false"></a>
+	<span class="iw-ItemSet" title="attributes">
+		<a class="iw-Item" href="#controller">ibmCfg.controllers.navigation</a>
+	</span>
+<div class="iw-Content view" style=""><div id="_templateSelect_contents_template"></div></div></div>
+<div class="iw-iWidget mumHiddenWidget iw-Standalone" lazyload="true" id="reorderPage">
+	<a class="iw-Definition" href="/wps/mccbuilder.v3001/widget-catalog/reorderPageWidget.xml?pragma=cache&amp;max-age=1209600&amp;cache-scope=public&amp;vary=none&amp;user-context=false"></a>
+</div>   
+<div class="iw-iWidget iw-Standalone" id="movePagesDialogDisplayer">
+	<a class="iw-Definition" href="/wps/mccbuilder.v3001/widget-catalog/displayHelper.xml?pragma=cache&amp;max-age=1209600&amp;cache-scope=public&amp;vary=none&amp;user-context=false"> </a>
+	<span class="iw-ItemSet" title="attributes">
+		<a class="iw-Item" href="#reorderPage">reorderPage</a>
+	</span>
+<div class="iw-Content view" style=""></div></div>
+<div class="iw-iWidget iw-Standalone" id="theme-toolbar-widget">
+	<a class="iw-Definition" href="/wps/themeModules/modules/pagebuilder/xml/universalToolbar.xml"></a>
+	<span class="iw-ItemSet" title="attributes">
+		<a class="iw-Item" href="#rootID">theme-toolbar</a>
+		<a class="iw-Item" href="#shelfRootID">utb-shelf</a>
+	</span>
+<div class="iw-Content view" style=""></div></div>
+
+<div class="iw-iWidget mumHiddenWidget iw-Standalone" lazyload="true" id="wireInterface">
+	<a class="iw-Definition" href="/wps/mccbuilder.v3001/widget-catalog/wireInterfaceWithSettings.xml?pragma=cache&amp;max-age=1209600&amp;cache-scope=public&amp;vary=none&amp;user-context=false"></a>
+	<span class="iw-ItemSet" title="attributes">
+		<a class="iw-Item" href="#displaySettings">true</a>
+		<a class="iw-Item" href="#displayPortletsAndWidgetsWarningMessage">true</a>
+	</span>
+</div>
+<div class="iw-iWidget mumHiddenWidget iw-Standalone" id="autoWiringManager">
+	<a class="iw-Definition" href="/wps/mccbuilder.v3001/widget-catalog/autoWiringManager.xml?pragma=cache&amp;max-age=1209600&amp;cache-scope=public&amp;vary=none&amp;user-context=false"></a>         
+<div class="iw-Content view" style=""></div></div>
+<div class="iw-iWidget iw-Standalone" id="wiringDialogDisplayer">
+	<a class="iw-Definition" href="/wps/mccbuilder.v3001/widget-catalog/displayHelper.xml?pragma=cache&amp;max-age=1209600&amp;cache-scope=public&amp;vary=none&amp;user-context=false"> </a>
+	<span class="iw-ItemSet" title="attributes">
+		<a class="iw-Item" href="#wireInterface">wireInterface</a>
+		<a class="iw-Item" href="#autoWiringManager">autoWiringManager</a>
+	</span>
+<div class="iw-Content view" style=""></div></div></div>
+
+
+<div id="IELeakGarbageBin" style="display: none;"></div></body></html>

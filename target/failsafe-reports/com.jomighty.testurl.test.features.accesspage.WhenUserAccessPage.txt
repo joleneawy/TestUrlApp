@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.jomighty.testurl.test.features.accesspage.WhenUserAccessPage
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 125.122 sec <<< FAILURE! - in com.jomighty.testurl.test.features.accesspage.WhenUserAccessPage
+a_when_http_redirect_https_testcase_4(com.jomighty.testurl.test.features.accesspage.WhenUserAccessPage)  Time elapsed: 4.663 sec  <<< FAILURE!
+java.lang.AssertionError: Redirection should be at https://www.sp.edu.sg/wps/portal/vp-spws, but current url is https://www.sp.edu.sg/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/
+	at com.jomighty.testurl.test.features.accesspage.WhenUserAccessPage.a_when_http_redirect_https_testcase_4(WhenUserAccessPage.java:57)
+
+a_when_http_redirect_https_testcase_5(com.jomighty.testurl.test.features.accesspage.WhenUserAccessPage)  Time elapsed: 4.262 sec  <<< FAILURE!
+java.lang.AssertionError: Redirection should be at https://www.sp.edu.sg/wps/portal/vp-spws, but current url is https://www.sp.edu.sg/wps/portal/Home/Welcome/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOKd3R09TMx9DAwsXFycDTxdnCzN_MxMDQxcDYAKIoEKDHAARwNC-sP1o1CVGJhYGIGUeLiYW_oaGHiaQRXgsaIgN8Ig01FREQDGF4rz/dl5/d5/L2dBISEvZ0FBIS9nQSEh/
+	at com.jomighty.testurl.test.features.accesspage.WhenUserAccessPage.a_when_http_redirect_https_testcase_5(WhenUserAccessPage.java:63)
+
